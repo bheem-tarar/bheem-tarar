@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bheem</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=baioo+paaji+2&weight=500&size=36&pause=1000&color=07F754&width=635&height=52&lines=Hi+%F0%9F%91%8B%2C+I'm+Bheem+choudhary" alt="Typing SVG" /></a>
 <h3 align="center">A passionat backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bheem-tarar&label=Profile%20views&color=0e75b6&style=flat" alt="bheem-tarar" /> </p>
